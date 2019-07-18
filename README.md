@@ -1,4 +1,4 @@
-# Treciak_NS2019
+{::nomarkdown}
 <!DOCTYPE html>
 <html>
 <head><meta charset="utf-8" />
@@ -12660,3 +12660,5 @@ Epoch 35/100
 
 
 </html>
+
+{:/}
